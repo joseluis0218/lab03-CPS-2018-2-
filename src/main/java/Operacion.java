@@ -1,3 +1,3 @@
-public void Operacion{
+public class Operacion{
 	
 }
